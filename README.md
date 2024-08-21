@@ -78,9 +78,7 @@ if __name__ == "__main__":
 
     # List of recipients (name, email)
     recipients = [
-        ("Saeid", "saeidhoseinipour7@gmail.com"),
-        ("AnitA Vafaei", "anitavafaee@gmail.com")
-        #("Alice Johnson", "alice.johnson@example.com"),
+        ("Alice Johnson", "alice.johnson@example.com")
         # Add more recipients as needed
     ]
 
