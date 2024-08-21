@@ -1,5 +1,9 @@
 # AutoEmailSender
 
+
+![Alt text](URL_or_path_to_image)
+
+
 ```python
 import smtplib
 import ssl
