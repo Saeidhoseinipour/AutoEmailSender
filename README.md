@@ -1,8 +1,7 @@
 # AutoEmailSender
 
-<img src="https://github.com/Saeidhoseinipour/AutoEmailSender/blob/main/3.png" alt="Alt text" width="500" height="300">
+<img src="https://github.com/Saeidhoseinipour/AutoEmailSender/blob/main/3.png" alt="Saeid, Auto email sender" width="700" height="500">
 
-![Alt text](https://github.com/Saeidhoseinipour/AutoEmailSender/blob/main/3.png)
 
 
 ```python
